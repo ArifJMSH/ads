@@ -1,3 +1,4 @@
+<script type='text/javascript'>
 (function($) {
     $.fn.iklanaccordion = function(settings) {
         settings = jQuery.extend({
@@ -37,3 +38,4 @@ $(document).ready(function() {
         $('.info-iklan').toggle();
     });
 });
+</script>
